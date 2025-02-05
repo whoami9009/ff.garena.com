@@ -7,6 +7,6 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 function openLocalFile() {
-    window.location.href = "password.html";
+    window.location.href = "index.html";
 }
 

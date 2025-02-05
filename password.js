@@ -6,3 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
         passwordInput.type = this.checked ? "text" : "password";
     });
 });
+function openLocalFile() {
+    window.location.href = "password.html";
+}
+
